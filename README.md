@@ -65,6 +65,13 @@ While ensemble tree models like Extra Trees and Random Forest showed slightly hi
 ├── ui_screenshot.png    # App UI Preview Image (Manually Add!)
 ├── requirements.txt     # Environment Dependencies
 └── README.md            # Project Documentation
+```
+
+## Clone the repository
+
+```bash
+git clone https://github.com/amirsohail100/Market-Economic-Predictor-App.git
+cd Market & Economic Predictor App
+```
 
 🚀 An interactive Streamlit Web App that predicts the Indonesian Stock Market Index (IHSG) based on global economic indicators (Gold, Oil, S&P 500, VIX, CPI, Interest Rates). Powered by a trained Machine Learning Regressor with annual macro-trend tracking and feature scaling. Developed for robust financial analytics. 📊📈
-```
