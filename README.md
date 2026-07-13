@@ -4,6 +4,16 @@ An interactive Machine Learning web application built with **Streamlit** that pr
 
 The application architecture is optimized to model long-term financial relationships by capturing yearly macro-trends combined with strategic feature scaling.
 
+---
+
+## 📸 User Interface Preview
+
+Here is a glimpse of the application's user interface, showcasing the interactive input fields and the prediction output.
+
+![App UI Screenshot](UI.png)
+
+---
+
 ## 🚀 Live Demo
 
 🔗 **Deploy your live Streamlit link here:** `https://share.streamlit.io/your-username/your-repo-name`
@@ -52,6 +62,7 @@ While ensemble tree models like Extra Trees and Random Forest showed slightly hi
 ├── model.pickle         # Production Gradient Boosting Model (Joblib)
 ├── scaler.pickle        # Fitted StandardScaler Instance
 ├── columns.pickle       # Saved Feature Columns array
+├── ui_screenshot.png    # App UI Preview Image (Manually Add!)
 ├── requirements.txt     # Environment Dependencies
 └── README.md            # Project Documentation
 
