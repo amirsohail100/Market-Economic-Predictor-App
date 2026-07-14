@@ -22,7 +22,7 @@ st.set_page_config(
     layout="centered"
 )
 
-st.title("📈 Market & Economic Predictor App")
+st.title("📈 ! Market & Economic Predictor App")
 st.write("Is app ke zariye aap economic indicators ke aadhar par **IHSG (Stock Market Index)** predict kar sakte hain.")
 st.markdown("---")
 
