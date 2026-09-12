@@ -10,7 +10,7 @@ The application architecture is optimized to model long-term financial relations
 
 Here is a glimpse of the application's user interface, showcasing the interactive input fields and the prediction output.
 
-![App UI Screenshot](UI.png)
+![App UI Screenshot](assets\UI.png)
 
 ---
 
